@@ -1,0 +1,10 @@
+{
+ "compilerOptions": {
+  "baseUrl": ".",
+  "paths": {
+   "*": [
+    "../themes/up-business-theme_on/assets/*"
+   ]
+  }
+ }
+}
