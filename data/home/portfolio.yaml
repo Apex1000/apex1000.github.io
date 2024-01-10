@@ -3,10 +3,13 @@ id: "portfolio"
 
 content:
   - image: "images/Thinking face-bro 1.png"
-    pretitle: "Portfolio Service"
+    pretitle: "Tenants Service"
     title: " Dive into Deposit-Free Living"
     text: "A blend of trust, transparency, and technology designed for modern tenants. Experience simplified renting with real-time tracking, financial flexibility, and dedicated support."
-
+    points:
+      - label: "Seamlessly shift between properties, with our system handling the deposit transitions."
+      - label: "Swiftly manage your deposits without the traditional waiting times."
+      - label: "Benefit from a neutral third-party mediation system in case of deposit disputes."
     # buttons:
     #   - label: "See live"
     #     url: "#"
@@ -27,7 +30,10 @@ content:
     pretitle: "Landlord Services"
     title: " Smart Deposit Solutions for Savvy Landlords"
     text: "Reliability, clarity, and innovation for today's landlord. Streamline rentals with instant deposit tracking and steadfast support. Automated reminders for lease renewals, maintenance checks, and other important dates. Easily tie deposits to digital lease agreements, ensuring terms are transparent and adhered to."
-
+    points:
+      - label: "Automated reminders for lease renewals, maintenance checks, and other important dates."
+      - label: "Best practices for managing rentals."
+      - label: "Easily tie deposits to digital lease agreements, ensuring terms are transparent and adhered to."
     # buttons:
     #   - label: "See live"
     #     url: "#"
