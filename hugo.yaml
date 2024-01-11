@@ -2,7 +2,7 @@ baseURL: "https://www.zzroo.com/"
 theme: "up-business-theme_on"
 languageCode: "en-us"
 
-# title: "ZZROO"
+title: "ZZROO"
 
 # googleAnalytics: ""
 
