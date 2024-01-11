@@ -61,7 +61,7 @@ menus:
 
   buttons:
     - name: "Book a call"
-      url: "/#"
+      url: "https://wa.me/+917785845447?text=Hii"
       weight: 5
       pre: "btn btn-primary text-light"
 
