@@ -6,7 +6,10 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no" />
   <meta name="description" content="{{ if .IsHome }}{{ .Site.Params.description }}{{ else if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{end}}" />
-
+  <meta property="og:image" content="https://zzroo.com/images/logo.png">
+  <meta property="og:image:type" content="image/png">
+  <meta property="og:image:width" content="123">
+  <meta property="og:image:height" content="32">
   <!-- Favicons and Manifest -->
   {{ partial "head/_favicons.html" . }}
 
