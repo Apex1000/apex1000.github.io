@@ -10,7 +10,7 @@ summaryLength: 20
 
 params:
   title: "zzroo"
-  description: "One stop solution for Tarrant and Landlord."
+  description: "One stop solution for Tenants and Landlord."
   images:
     - "images/Group 2.png"
 
@@ -60,7 +60,7 @@ menus:
     #   weight: 5
 
   buttons:
-    - name: "Book a call"
+    - name: "Let's talk"
       url: "https://wa.me/+917785845447?text=Hii"
       weight: 5
       pre: "btn btn-primary text-light"

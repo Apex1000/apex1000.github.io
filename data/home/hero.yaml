@@ -2,7 +2,7 @@ enabled: true
 id: "hero"
 
 content:
-  title: "One stop solution for **Tenets** and **Landload**"
+  title: "One stop solution for **Tenants** and **Landlords**"
   text: "We're revolutionizing this process. Our platform seamlessly bridges the gap between tenants' need for financial flexibility and landlords' need for security. Experience a rental journey where trust, transparency, and technology converge."
 
   buttonPrimary:
