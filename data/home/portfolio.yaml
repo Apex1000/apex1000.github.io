@@ -2,6 +2,20 @@ enabled: true
 id: "portfolio"
 
 content:
+  - image: "images/Group 65 (1).png"
+    pretitle: "Tenants Service"
+    title:  "Rental Bonds"
+    text: "Discover freedom in renting with zzroo your passport to a deposit-free tenancy. Say farewell to hefty rental bonds and hello to a stress-free leasing experience. We offer a revolutionary approach, allowing tenants to move in without a traditional deposit, ensuring financial ease and flexibility."
+    points:
+      - label: " Experience the liberation of renting without the burden of a hefty upfront deposit."
+      - label: "Keep more money in your pocket with our innovative approach, providing tenants with increased financial flexibility during the move."
+      - label: "We prioritize transparency, ensuring that tenants understand and appreciate the terms of our deposit-free model."
+    # buttons:
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"
   - image: "images/Thinking face-bro 1.png"
     pretitle: "Tenants Service"
     title: " Dive into Deposit-Free Living"
@@ -34,6 +48,60 @@ content:
       - label: "Automated reminders for lease renewals, maintenance checks, and other important dates."
       - label: "Best practices for managing rentals."
       - label: "Easily tie deposits to digital lease agreements, ensuring terms are transparent and adhered to."
+    # buttons:
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"
+  - image: "images/Revenue-pana 1 (1).png"
+    pretitle: "Tenants Service"
+    title: "Rent Collection"
+    text: "Easy Mobile and Online Rent Collection without any Hidden Fees!"
+    points:
+      - label: "Add Payment Accounts to each property to start collecting & tacking rent, Create as many account as needed, No extra charges."
+      - label: "Landlords Receive Finds from tenants in as Quick as 3-4 Business Days after initial Payment account approval."
+      - label: "Export Rent Payment Directly to Spreadsheets.."
+    # buttons:
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"
+
+  # - image: "images/portfolio-ecommerce.png"
+  #   pretitle: "Tenet Services"
+  #   title: "We developed an eCommerce website"
+  #   text: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed euismod quis sit gravida pharetra sit. Cursus vel enim pretium vulputate semper sem elit magna neque. Aliquet adipisc."
+  #   buttons:
+  #     - label: "See live"
+  #       url: "#"
+  #     - label: "Read more"
+  #       url: "#"
+  
+  - image: "images/Checklist-rafiki (1).png"
+    pretitle: "Landlord Services"
+    title: "Sign & Storetenant Lease Agreements"
+    text: "Using free tenant lease agreement signing tool, your documents can be sent and signed with legal documentation of signatures. Safely and securely send, sign, and store leases. If you upload leases from another source, your documents are ready to download or print—whenever or wherever you may be."
+    points:
+      - label: "Free Tool to E-sign Lease and Documents in App"
+      - label: "Required Government ID with Tenant Signature"
+      - label: "Receive In-App Notifications During Signing Process"
+    # buttons:
+    #   - label: "See live"
+    #     url: "#"
+
+    #   - label: "Read more"
+    #     url: "#"
+
+  - image: "images/Checklist-rafiki (1).png"
+    pretitle: "Landlord Services"
+    title: "Tenant Screening"
+    text: ""
+    points:
+      - label: "Certified TransUnion Report Full Credit, Criminal & Eviction Report"
+      - label: "Included Background Checks"
+      - label: "Tenants Rs. 100/ Application"
     # buttons:
     #   - label: "See live"
     #     url: "#"
