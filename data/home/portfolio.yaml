@@ -2,7 +2,7 @@ enabled: true
 id: "portfolio"
 
 content:
-  - image: "images/Group 65 (1).png"
+  - image: "images/Group 65(1).png"
     pretitle: "Tenants Service"
     title:  "Rental Bonds"
     text: "Discover freedom in renting with zzroo your passport to a deposit-free tenancy. Say farewell to hefty rental bonds and hello to a stress-free leasing experience. We offer a revolutionary approach, allowing tenants to move in without a traditional deposit, ensuring financial ease and flexibility."
