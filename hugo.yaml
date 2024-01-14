@@ -38,14 +38,14 @@ params:
   copyright: "© 2024 zzroo All Rights Reserved"
 
 menus:
-  main:
-    - name: "Home"
-      url: "/#hero"
-      weight: 1
+  # main:
+    # - name: "Home"
+    #   url: "/#hero"
+    #   weight: 1
 
-    - name: "How we work"
-      url: "/#"
-      weight: 2
+    # - name: "How we work"
+    #   url: "/#"
+    #   weight: 2
 
     # - name: "Our team"
     #   url: "/#"
